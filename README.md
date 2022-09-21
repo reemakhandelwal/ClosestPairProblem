@@ -34,16 +34,22 @@ The above discussed algorithm is implemented in **C** programming language using
 ***
 ## Test Cases:
 
-Test case 1: (2, 3), (12, 30), (40, 50), (5, 1), (12, 10), (2, 1)  
+### Test case 1: (2, 3), (12, 30), (40, 50), (5, 1), (12, 10), (2, 1)  
 The minimum distance is 2 between points (2, 3) and (2, 1).  
 ![t1](https://user-images.githubusercontent.com/94159340/191347324-c55cd7e5-83a7-4756-9581-c139f9c5e3d0.png)
+***
 
-
-Test case 2: (2, 6), (30, 30), (40, 50), (5, 12), (17, 10), (2, 1), (6, 9), (12, 5)  
+### Test case 2: (2, 6), (30, 30), (40, 50), (5, 12), (17, 10), (2, 1), (6, 9), (12, 5)  
 The minimum distance is 3.162278 between points (2, 6) and (6, 9).  
 ![t2](https://user-images.githubusercontent.com/94159340/191347716-9b06976e-be6f-49eb-9c81-c93d37ff3340.png)
+***
 
-
-Test case 3: (2, -3), (-30, 30), (-17, 10), (2, -1), (6, 9), (-12, 5)  
+### Test case 3: (2, -3), (-30, 30), (-17, 10), (2, -1), (6, 9), (-12, 5)  
 The minimum distance is 2 between points (2, -3) and (2, -1).  
 ![t3](https://user-images.githubusercontent.com/94159340/191347761-15188d0c-b9e1-481f-80f5-0ac7fde68ce3.png)
+***
+
+### Test case 4: (2, 3), (12, 30), (40, 50)  
+The minimum distance is 28.792360 between points (2, 3) and (12, 30).  
+![t4](https://user-images.githubusercontent.com/94159340/191420875-9a328b6f-5629-4518-a60c-ced34db40b51.png)
+
